@@ -274,7 +274,7 @@ defaults:
       layout: single
       author_profile: true
       share: false
-      comment: false
+      comment: true
   # _talks
   - scope:
       path: ""
