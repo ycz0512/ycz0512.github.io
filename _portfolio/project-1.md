@@ -4,7 +4,7 @@ excerpt: "This work developed a global optimality guarantee for the advantage-we
 collection: portfolio
 ---
 
-**2024.12** | [PDF](../assets/AWR_Guarantees.pdf)
+**2024.12** / [PDF](../assets/AWR_Guarantees.pdf)
 
 Based on the concept of reduction to supervised learning, AWR is an iterative RL algorithm in which the policy is updated using standard regression.<br>
 Focusing on the expected improvement of successive policy iterates, one can formulate the following constrained policy search problem:<br>
