@@ -6,5 +6,6 @@ collection: portfolio
 
 
 Based on the concept of reduction to supervised learning, AWR is an iterative RL algorithm in which the policy is updated using standard regression.
+
 Focusing on the expected performance improvement of successive policy iterates, we want to solve the following constrained policy search problem:  
-![constrained_policy_search_problem](../images/constrained_policy_search_problem.png)
+<img src='/images/constrained_policy_search_problem.png'>
