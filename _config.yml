@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : # "en-US"
-title                    : "Changzhi Yan's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Changzhi Yan"
 description              : &description "personal description"
