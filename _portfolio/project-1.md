@@ -22,6 +22,6 @@ This sub-optimality upper bound has no dependence on the size of the state space
 even though the target policy is updated under a different measure µ.
 
 ### Approximation II
-I motivate AWR as a projection of the target policy onto the policy class in each iteration
+I motivate AWR as the projection of the target policy onto the policy class in each iteration
 and derive an upper bound on the sub-optimality of the policy output by AWR upon termination, 
 which has no dependence on the size of the state and action space.
