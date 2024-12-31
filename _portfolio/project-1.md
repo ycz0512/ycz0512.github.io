@@ -12,3 +12,4 @@ I motivate the AWR algorithm as an *approximate optimization* for this problem, 
 <img src='/images/AWR/approx_1.png'>
 which has a closed-form solution:<br>
 <img src='/images/AWR/target_policy.png'>
+where $$Z_k(s)$$ is the partition function.
