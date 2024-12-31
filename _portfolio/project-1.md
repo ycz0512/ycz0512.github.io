@@ -1,9 +1,10 @@
 ---
 title: "Optimality Guarantee for AWR"
-excerpt: "This work developed a global optimality guarantee for 
-advantage-weighted regression (AWR, an iterative regression-based RL algorithm) 
-in the tabular setting. <br/><img src='/images/AWR_paper.png'>"
+excerpt: "This work developed a global optimality guarantee for the advantage-weighted regression (AWR) in the tabular setting. <br/><img src='/images/AWR_paper.png'>"
 collection: portfolio
 ---
 
 
+Based on the concept of reduction to supervised learning, AWR is an iterative RL algorithm in which the policy is updated using standard regression.
+Focusing on the expected performance improvement of successive policy iterates, we want to solve the following constrained policy search problem:  
+![constrained_policy_search_problem](../images/constrained_policy_search_problem.png)
