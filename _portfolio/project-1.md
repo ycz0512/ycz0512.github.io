@@ -11,7 +11,7 @@ Maximizing the expected improvement of successive policy iterates, one can formu
 <img src='/images/AWR/constrained_policy_search_problem.png'>
 I motivate the AWR algorithm as an *approximate optimization* for this problem, where the approximation can be decomposed into two steps.
 
-### Approximation I
+### Step 1
 In the first approximation step, I derive a target policy update rule as an intermediate result
 and show that this intermediate update not only ensures monotonic policy improvements
 but also enjoys a convergence rate of O(1/K) for near-optimal policies.
@@ -22,7 +22,7 @@ but also enjoys a convergence rate of O(1/K) for near-optimal policies.
 The sub-optimality upper bound has no dependence on the size of the state space and the distribution mismatch coefficient,
 even though the target policy is updated under a different measure µ.
 
-### Approximation II
+### Step 2
 I motivate AWR as the projection of the target policy onto the policy class in each iteration
 and derive an upper bound on the sub-optimality of the policy output by AWR upon termination,
 which has no dependence on the size of the state and action space.
