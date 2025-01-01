@@ -6,7 +6,7 @@ collection: portfolio
 
 **2024.12**  \|  [PDF](https://ycz0512.github.io/assets/AWR_Guarantees.pdf)
 
-The AWR algorithm is based on maximizing the expected improvement of successive policy iterates.
+The AWR algorithm is derived from maximizing the expected improvement of successive policy iterates.
 According to the performance difference lemma, the expected improvement can be expressed as:
 <img src='/images/AWR/expected_improvement.png'>
 To circumvent the need to collect samples from the new iterate policy, one can formulate the following constrained policy search problem:
@@ -35,3 +35,6 @@ Under certain conditions, the global optimality can be guaranteed.
 <img src='/images/AWR/delta_plus.png'>
 <img src='/images/AWR/thm_2.png'>
 <img src='/images/AWR/conditions.png'>
+The first condition is about the function class with only the realizability concern.
+The second condition is about the data distribution which requires exploratory initial state distribution.<br>
+Note that there is no convergence guarantee for the AWR algorithm since in each iteration the output policy doesn’t guarantee to achieve improvement (lemma 4) due to the incorporation of the approximation II.
