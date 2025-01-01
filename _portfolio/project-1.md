@@ -11,7 +11,7 @@ According to the performance difference lemma, the expected improvement can be e
 <img src='/images/AWR/expected_improvement.png'>
 To circumvent the need to collect samples from the new iterate policy, one can formulate the following constrained policy search problem:
 <img src='/images/AWR/constrained_PS.png'>
-I motivate the AWR algorithm as an *approximate optimization* for this problem, where the approximation can be decomposed into two steps.
+I motivate AWR as an *approximate optimization* for this problem, where the approximation can be decomposed into two steps.
 
 ### Step 1
 In the first approximation step, I derive a target policy update rule as an intermediate result
