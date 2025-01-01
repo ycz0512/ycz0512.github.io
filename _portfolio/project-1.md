@@ -31,3 +31,5 @@ Under certain conditions, the global optimality can be guaranteed.
 <img src='/images/AWR/AWR_update.png'>
 <img src='/images/AWR/lemma_4.png'>
 <img src='/images/AWR/delta_plus.png'>
+<img src='/images/AWR/thm_2.png'>
+<img src='/images/AWR/conditions.png'>
