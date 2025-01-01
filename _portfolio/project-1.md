@@ -9,7 +9,7 @@ collection: portfolio
 The AWR algorithm is based on maximizing the expected improvement of successive policy iterates.
 According to the performance difference lemma, the expected improvement can be expressed as:
 <img src='/images/AWR/expected_improvement.png'>
-To circumvent the need to collect samples from \(\pi_{k+1}\), one can formulate the following constrained policy search problem:
+To circumvent the need to collect samples from \\(\pi_{k+1}\\), one can formulate the following constrained policy search problem:
 <img src='/images/AWR/constrained_PS.png'>
 I motivate the AWR algorithm as an *approximate optimization* for this problem, where the approximation can be decomposed into two steps.
 
