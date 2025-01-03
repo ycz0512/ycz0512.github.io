@@ -24,14 +24,16 @@ The sub-optimality upper bound has no dependence on the size of the state space 
 even though the target policy is updated under a different measure \\(\mu\\).
 
 ### Step 2
-I motivate AWR as the projection of the target policy onto the policy class in each iteration
-and derive an upper bound on the sub-optimality of the policy output by AWR upon termination.
-Under certain conditions, the near optimality can be guaranteed.
+In the second step, I develop a variant algorithm of AWR by projecting the target policy onto the policy class.
+The variant algorithm guarantees near optimality while the original AWR doesn't.
+Also, I derive an upper bound on the sub-optimality of the policy output by the variant AWR upon termination.
 <img src='/images/AWR/approx_2.png'>
 <img src='/images/AWR/AWR_update.png'>
 
 <img src='/images/AWR/lemma_4.png'>
 <img src='/images/AWR/delta_plus.png'>
+
+<img src='/images/AWR/termination_citerion.png'>
 
 <img src='/images/AWR/thm_2.png'>
 <img src='/images/AWR/conditions.png'>
