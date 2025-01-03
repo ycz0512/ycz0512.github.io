@@ -38,5 +38,5 @@ Also, I derive an upper bound on the sub-optimality of the policy output by the 
 <img src='/images/AWR/thm_2.png'>
 <img src='/images/AWR/conditions.png'>
 The sub-optimality upper bound has no dependence on the size of the state and action space.
-Note that there is no convergence guarantee for the AWR algorithm since in each iteration 
+Note that there is no convergence guarantee for the (variant) AWR algorithm since in each iteration 
 the output policy doesn’t guarantee to achieve improvement (lemma 4) due to the incorporation of the approximation II.
