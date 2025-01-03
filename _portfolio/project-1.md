@@ -26,7 +26,7 @@ even though the target policy is updated under a different measure \\(\mu\\).
 ### Step 2
 In the second step, I develop a variant algorithm of AWR by projecting the target policy onto the policy class.
 The variant algorithm guarantees near optimality while the original AWR doesn't.
-Also, I derive an upper bound on the sub-optimality of the policy output by the variant AWR upon termination.
+Also, I derive an upper bound on the sub-optimality of the policy output by the variant AWR algorithm upon termination.
 <img src='/images/AWR/approx_2.png'>
 <img src='/images/AWR/AWR_update.png'>
 
