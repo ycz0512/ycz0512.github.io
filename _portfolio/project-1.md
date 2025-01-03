@@ -6,7 +6,7 @@ collection: portfolio
 
 **2024.12**  \|  [PDF](https://ycz0512.github.io/assets/AWR_Guarantees.pdf)
 
-Based on incremental policy updates, the AWR algorithm is derived from maximizing the expected improvement of successive policy iterates.<br>
+Based on incremental policy updates, the AWR algorithm is derived from maximizing the expected improvement of successive policy iterates.
 Borrowing ideas from TRPO, one can formulate the following constrained policy search problem:
 <img src='/images/AWR/constrained_PS.png'>
 I motivate AWR as an *approximate optimization* of this problem, where the approximation can be decomposed into two steps.
@@ -14,7 +14,7 @@ I motivate AWR as an *approximate optimization* of this problem, where the appro
 ### Step 1
 In the first approximation step, I develop a target policy update rule as an intermediate result
 and show that this intermediate update not only ensures monotonic policy improvements
-but also enjoys a convergence rate of O(1/K) for near-optimal policies.
+but also enjoys a convergence rate of \\(O(1/K)\\) for near-optimal policies.
 <img src='/images/AWR/approx_1.png'>
 
 <img src='/images/AWR/lemma_1.png'>
