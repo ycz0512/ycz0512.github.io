@@ -25,15 +25,16 @@ even though the target policy is updated under a different measure \\(\mu\\).
 
 ### Step 2
 I motivate AWR as the projection of the target policy onto the policy class in each iteration
-and derive an upper bound on the sub-optimality of the policy output by AWR upon termination,
-which has no dependence on the size of the state and action space.
+and derive an upper bound on the sub-optimality of the policy output by AWR upon termination.
 Under certain conditions, the near optimality can be guaranteed.
 <img src='/images/AWR/approx_2.png'>
 <img src='/images/AWR/AWR_update.png'>
+
 <img src='/images/AWR/lemma_4.png'>
 <img src='/images/AWR/delta_plus.png'>
+
 <img src='/images/AWR/thm_2.png'>
 <img src='/images/AWR/conditions.png'>
-The first condition is about the function class with only the realizability concern.
-The second condition is about the data distribution which requires exploratory initial state distribution.<br>
-Note that there is no convergence guarantee for the AWR algorithm since in each iteration the output policy doesn’t guarantee to achieve improvement (lemma 4) due to the incorporation of the approximation II.
+The sub-optimality upper bound has no dependence on the size of the state and action space.
+Note that there is no convergence guarantee for the AWR algorithm since in each iteration 
+the output policy doesn’t guarantee to achieve improvement (lemma 4) due to the incorporation of the approximation II.
