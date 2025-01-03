@@ -33,7 +33,7 @@ Also, I derive an upper bound on the sub-optimality of the policy output by the 
 <img src='/images/AWR/lemma_4.png'>
 <img src='/images/AWR/delta_plus.png'>
 
-<img src='/images/AWR/termination_citerion.png'>
+<img src='/images/AWR/termination_criterion.png'>
 
 <img src='/images/AWR/thm_2.png'>
 <img src='/images/AWR/conditions.png'>
