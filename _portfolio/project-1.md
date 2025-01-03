@@ -14,7 +14,7 @@ I motivate AWR as an *approximate optimization* of this problem, where the appro
 ### Step 1
 In the first approximation step, I develop a target policy update rule as an intermediate result
 and show that this intermediate update not only ensures monotonic policy improvements
-but also enjoys a convergence rate of \\(O(1/K)\\) for near-optimal policies.
+but also enjoys a convergence rate of \\\(O(1/K)\\\) for near-optimal policies.
 <img src='/images/AWR/approx_1.png'>
 
 <img src='/images/AWR/lemma_1.png'>
