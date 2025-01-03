@@ -21,7 +21,7 @@ but also enjoys a convergence rate of O(1/K) for near-optimal policies.
 
 <img src='/images/AWR/thm_1.png'>
 The sub-optimality upper bound has no dependence on the size of the state space and the distribution mismatch coefficient,
-even though the target policy is updated under a different measure µ.
+even though the target policy is updated under a different measure \\(\mu\\).
 
 ### Step 2
 I motivate AWR as the projection of the target policy onto the policy class in each iteration
