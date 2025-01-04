@@ -1,6 +1,6 @@
 ---
 title: "To be added ..."
-excerpt: "There are three research projects to be included. (will be added by Jan 17)"
+excerpt: "There are three projects to be included. (will be added by Jan 17.)"
 collection: portfolio
 ---
 
