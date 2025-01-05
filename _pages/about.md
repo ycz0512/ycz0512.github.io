@@ -16,6 +16,6 @@ If you want to know my research background through one paper, please check [this
 
 I achieved my M.E. degree in the Department of Automation at Tsinghua University, where I was fortunate to be advised by Prof. Tao Zhang and Xueqian Wang. Before that, I earned my B.E. degree in Automation from Hubei University of Technology.
 
-This is my updated [CV](../assets/CV.pdf).
+This is my [CV](../assets/CV.pdf). (updated Jan 5, 2025)
 
 **I’m actively seeking opportunities to pursue a PhD in related areas.**
