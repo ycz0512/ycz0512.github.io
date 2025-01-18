@@ -4,7 +4,7 @@ excerpt: "This work developed the optimality guarantee for the advantage-weighte
 collection: portfolio
 ---
 
-**2024.12**  \|  [PDF](https://ycz0512.github.io/assets/AWR_Guarantees.pdf)
+**2024.12**  \|  [Preprint](https://ycz0512.github.io/assets/AWR_Guarantees.pdf)
 
 Based on incremental policy updates, the AWR algorithm is derived from maximizing the expected improvement of successive policy iterates.
 Borrowing ideas from TRPO, one can formulate the following constrained policy search problem:
