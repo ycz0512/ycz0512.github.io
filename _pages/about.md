@@ -7,15 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm currently in my gap years as an "independent" researcher.    
-I'm interested in reinforcement learning (RL), especially in theory.
+Hi! I'm currently in my gap year as an "independent" researcher. <br>
+I'm interested in reinforcement learning (RL), particularly the theory.
 
-Recently, I finished my work on developing the optimality guarantee for the advantage-weighted regression (AWR),
-an iterative RL algorithm in which the policy is updated using standard regression.
-If you want to know my research background through one paper, please check [this](../assets/AWR_Guarantees.pdf).
+I have completed my work on developing the optimality guarantee for Advantage-Weighted Regression (AWR), an iterative RL algorithm in which the policy is updated using standard regression.
+If you would like to learn about my research background through a single paper, please refer to [this](../assets/AWR_Guarantees.pdf).
 
 I achieved my M.E. degree in the Department of Automation at Tsinghua University, where I was fortunate to be advised by Prof. Tao Zhang and Xueqian Wang. Before that, I earned my B.E. degree in Automation from Hubei University of Technology.
 
-This is my [CV](../assets/CV.pdf). (updated Jan 5, 2025)
+This is my [CV](../assets/CV.pdf). (updated Jan 6, 2026)
 
 **I’m actively seeking opportunities to pursue a PhD in related areas.**
