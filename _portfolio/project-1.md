@@ -1,6 +1,6 @@
 ---
 title: "Optimality Guarantee for AWR"
-excerpt: "This work developed the optimality guarantee for the advantage-weighted regression (AWR) algorithm in the tabular setting. <br/><img src='/images/AWR/AWR_paper.png'>"
+excerpt: "This work developed the optimality guarantee for the advantage-weighted regression (AWR) algorithm in the tabular setting. <br/><img src='/images/AWR/thm_2.png'>"
 collection: portfolio
 ---
 
@@ -20,12 +20,12 @@ but also enjoys a convergence rate of O(1/K) for near-optimal policies.
 <img src='/images/AWR/lemma_1.png'>
 
 <img src='/images/AWR/thm_1.png'>
-The sub-optimality upper bound has no dependence on the size of the state space and the distribution mismatch coefficient,
+The sub-optimality upper bound has no dependence on the size of the state space and the distribution mismatch coefficient, 
 even though the target policy is updated under a different measure \\(\mu\\).
 
 ### Step 2
 In the second step, I develop a variant algorithm of AWR as the projection of the target policy onto the policy class.
-The variant algorithm guarantees near optimality while the original AWR doesn't.
+The variant algorithm guarantees near optimality, while the original AWR doesn't.
 Also, I derive an upper bound on the sub-optimality of the policy output by the (variant) AWR algorithm upon termination.
 <img src='/images/AWR/approx_2.png'>
 <img src='/images/AWR/AWR_update.png'>
@@ -39,4 +39,4 @@ Also, I derive an upper bound on the sub-optimality of the policy output by the 
 <img src='/images/AWR/conditions.png'>
 The sub-optimality upper bound has no dependence on the size of the state and action space.
 Note that there is no convergence guarantee for the (variant) AWR algorithm since in each iteration 
-the output policy doesn’t guarantee to achieve improvement (lemma 4) due to the incorporation of the approximation II.
+the output policy doesn’t guarantee to achieve improvement (Lemma 4) due to the incorporation of approximation II.
