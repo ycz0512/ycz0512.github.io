@@ -1,6 +1,7 @@
 ---
-title: "Optimality Guarantee for AWR"
-excerpt: "This work developed the optimality guarantee for the advantage-weighted regression (AWR) algorithm in the tabular setting. <br/><img src='/images/AWR/thm_2.png'>"
+title: "Optimality Guarantee for Advantage-Weighted Regression"
+excerpt: "This work developed the optimality guarantee for the advantage-weighted regression (AWR) algorithm in the tabular setting. 
+<br/><img src='/images/AWR/thm_2.png'>"
 collection: portfolio
 ---
 
