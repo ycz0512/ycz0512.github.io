@@ -1,6 +1,7 @@
 ---
 title: "Goal-Specific Skill Discovery and Transfer"
-excerpt: "This work proposed (1) a method, "Diverse Goal-Specific Skill Learning" (DGSL), to learn diverse, distinguishable, and goal-specific skills in multi-goal, sparse-reward environments; and (2) an extension to DGSL for hierarchical RL to solve complex downstream tasks with high sample efficiency.
+excerpt: "This work proposed (1) a method, Diverse Goal-Specific Skill Learning (DGSL), to learn diverse, distinguishable, and goal-specific skills in multi-goal, sparse-reward environments; 
+and (2) an extension to DGSL for hierarchical RL to solve complex downstream tasks with high sample efficiency.
 <br/><img src='/images/DGSL/mechanism.png'>"
 collection: portfolio
 ---
