@@ -1,9 +1,11 @@
 ---
-title: "To be added ..."
-excerpt: "There are three projects to be included."
+title: "Goal-Specific Skill Discovery and Transfer"
+excerpt: "This work proposed (1) a method, "Diverse Goal-Specific Skill Learning" (DGSL), to learn diverse, distinguishable, and goal-specific skills in multi-goal, sparse-reward environments; 
+and (2) an extension to DGSL for hierarchical RL to solve complex downstream tasks with high sample efficiency.
+<br/><img src='/images/DGSL/mechanism.png'>"
 collection: portfolio
 ---
 
+**2020.10**  \|  [Draft](https://ycz0512.github.io/assets/DGSL.pdf) / [Code](https://github.com/ycz0512/DGSL)
 
-A summary of these projects can be found in my [CV](https://ycz0512.github.io/assets/CV.pdf).<br>
-Since these projects were conducted many years ago, it may take me some time to review and re-document them. (I'm still revising my latest paper.)
+This page and the full version of the draft will be finalized by Jan 11, 2026 (23:59).
