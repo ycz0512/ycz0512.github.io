@@ -6,6 +6,6 @@ and (2) an extension to DGSL for hierarchical RL to solve complex downstream tas
 collection: portfolio
 ---
 
-**2020.10**  \|  [Draft](https://ycz0512.github.io/assets/DGSL.pdf) / [Code](https://github.com/ycz0512/DGSL)
+**2020.10**  \|  [Draft](https://ycz0512.github.io/assets/DGSL.pdf) (rewritten in 2026.01)  \|  [Code](https://github.com/ycz0512/DGSL)
 
-This page and the full version of the draft will be finalized by Jan 11, 2026 (23:59).
+This page and the final version of the draft will be completed by Jan 13, 2026 (23:59).
