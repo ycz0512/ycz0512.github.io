@@ -8,5 +8,5 @@ collection: portfolio
 
 **2020.10**  \|  [Draft](https://ycz0512.github.io/assets/DGSL.pdf) (rewritten in 2026.01)  \|  [Code](https://github.com/ycz0512/DGSL)
 
-The final version of the draft will be completed by 2026.01.30 (23:59).
-This page will be finalized by 2026.01.30 (23:59).
+The final version of the draft will be completed by 2026.01.31 (23:59).
+This page will be finalized by 2026.02.01 (23:59).
